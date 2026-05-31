@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "websocket-engineer": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "computedHash": "a90c56583db692bd98e0d1e1210a54b0427923970965676c6fe86101261c9ece"
+    }
+  }
+}
